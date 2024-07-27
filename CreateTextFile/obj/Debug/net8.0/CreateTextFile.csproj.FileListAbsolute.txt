@@ -1,0 +1,14 @@
+C:\Users\G.Vanitha\source\repos\CreateTextFile\bin\Debug\net8.0\CreateTextFile.exe
+C:\Users\G.Vanitha\source\repos\CreateTextFile\bin\Debug\net8.0\CreateTextFile.deps.json
+C:\Users\G.Vanitha\source\repos\CreateTextFile\bin\Debug\net8.0\CreateTextFile.runtimeconfig.json
+C:\Users\G.Vanitha\source\repos\CreateTextFile\bin\Debug\net8.0\CreateTextFile.dll
+C:\Users\G.Vanitha\source\repos\CreateTextFile\bin\Debug\net8.0\CreateTextFile.pdb
+C:\Users\G.Vanitha\source\repos\CreateTextFile\obj\Debug\net8.0\CreateTextFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G.Vanitha\source\repos\CreateTextFile\obj\Debug\net8.0\CreateTextFile.AssemblyInfoInputs.cache
+C:\Users\G.Vanitha\source\repos\CreateTextFile\obj\Debug\net8.0\CreateTextFile.AssemblyInfo.cs
+C:\Users\G.Vanitha\source\repos\CreateTextFile\obj\Debug\net8.0\CreateTextFile.csproj.CoreCompileInputs.cache
+C:\Users\G.Vanitha\source\repos\CreateTextFile\obj\Debug\net8.0\CreateTextFile.dll
+C:\Users\G.Vanitha\source\repos\CreateTextFile\obj\Debug\net8.0\refint\CreateTextFile.dll
+C:\Users\G.Vanitha\source\repos\CreateTextFile\obj\Debug\net8.0\CreateTextFile.pdb
+C:\Users\G.Vanitha\source\repos\CreateTextFile\obj\Debug\net8.0\CreateTextFile.genruntimeconfig.cache
+C:\Users\G.Vanitha\source\repos\CreateTextFile\obj\Debug\net8.0\ref\CreateTextFile.dll
